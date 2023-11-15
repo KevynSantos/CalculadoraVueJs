@@ -1,0 +1,20 @@
+.text
+{
+  color: white;
+}
+#soma
+{
+  background-color: green;
+}
+#divisao
+{
+ background-color: blue;
+}
+#multiplicacao
+{
+  background-color: red;
+}
+#subtracao
+{
+ background-color: orange;
+}
